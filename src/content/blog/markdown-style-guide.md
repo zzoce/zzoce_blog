@@ -5,6 +5,7 @@ pubDate: "Jul 01 2024"
 image: "/index.webp"
 categories:
   - tech
+  - 技术
 tags:
   - Makrdown
 badge: Pin
