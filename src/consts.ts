@@ -58,14 +58,14 @@ export const menuItems = [
   }, // Projects page
   {
     id: "friend",
-    text: "朋友",
+    text: "友情链接",
     href: "/friend",
     svg: "friend",
     target: "_self",
   }, // Friends page
   {
     id: "contact",
-    text: "友情连接",
+    text: "邮箱",
     href: "mailto:contact.evesunmaple@outlook.com", // Contact email
     target: "_blank", // Open in a new tab
     svg: "contact",
