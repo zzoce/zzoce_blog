@@ -34,7 +34,7 @@ export const menuItems = [
         target: "_self",
       }, // All blog
       {
-        id: "tech",
+        id: "技术",
         text: "技术",
         href: "/blog/categories/tech",
         svg: "cube",
