@@ -34,19 +34,26 @@ export const menuItems = [
         target: "_self",
       }, // All blog
       {
-        id: "技术",
-        text: "技术",
-        href: "/blog/categories/技术",
+        id: "笔记",
+        text: "笔记",
+        href: "/blog/categories/笔记",
         svg: "cube",
         target: "_self",
       }, // Technology category
       {
-        id: "life",
-        text: "生活",
-        href: "/blog/categories/life",
+        id: "日常",
+        text: "日常",
+        href: "/blog/categories/日常",
         svg: "heart",
         target: "_self",
       }, // Life category
+      {
+        id: "杂谈",
+        text: "杂谈",
+        href: "/blog/categories/杂谈",
+        svg: "cube",
+        target: "_self",
+      }, // Technology category
     ],
   }, // Blog page with sub-items
   {

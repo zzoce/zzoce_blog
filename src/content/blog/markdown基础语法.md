@@ -1,16 +1,16 @@
 ---
-title: "Markdown Style Guide"
-description: "Here is a sample of some basic Markdown syntax that can be used when writing Markdown content in Astro."
+title: "Markdown基础语法"
+description: "以下是在Astro中编写Markdown内容时可以使用的一些基本Markdown语法示例."
 pubDate: "Jul 01 2024"
 image: "/index.webp"
 categories:
-  - 技术
+  - 笔记
 tags:
   - Makrdown
 badge: Pin
 ---
 
-Here is a sample of some basic Markdown syntax that can be used when writing Markdown content in Astro.
+以下是在Astro中编写Markdown内容时可以使用的一些基本Markdown语法示例.
 
 ## Headings
 
@@ -20,7 +20,7 @@ The following HTML `<h1>`—`<h6>` elements represent six levels of section head
 
 测试
 你好
-教师劳动法律
+新增杂谈
 
 ## H2
 
