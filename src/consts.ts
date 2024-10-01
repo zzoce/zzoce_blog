@@ -10,7 +10,7 @@ export const DATE_FORMAT = "ddd MMM DD YYYY";
 // User profile information
 export const USER_NAME = "zzoce";
 export const USER_SITE = "https://www.zzoce.com/"
-export const USER_AVATAR = "/profile.webp";
+export const USER_AVATAR = "/zzoce.jpg";
 
 // Server and transition settings
 export const SERVER_URL = "https:// zzoce.com";
