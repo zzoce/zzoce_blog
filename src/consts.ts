@@ -28,7 +28,7 @@ export const menuItems = [
     subItems: [
       {
         id: "all",
-        text: "所有博客",
+        text: "全部",
         href: "/blog",
         svg: "post",
         target: "_self",
