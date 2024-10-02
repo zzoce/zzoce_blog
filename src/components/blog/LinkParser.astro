@@ -1,12 +1,11 @@
 ---
-import { parse } from 'some-markdown-parser'; // 你可以选择一个适合的 Markdown 解析库
-const content = Astro.props.content;
+// MarkdownLinks.astro
+const { content } = Astro.props;
+
+// 使用正则表达式查找[[文件名]]格式的文本
+const transformedContent = content.replace(/\[\[(.*?)\]\]/g, (match, filename) => {
+  return `<a href="/${filename}">${filename}</a>`;
+});
 ---
 
-{parse(content).map((node) => {
-  if (node.type === 'link' && node.url.startsWith('[[') && node.url.endsWith(']]')) {
-    const linkText = node.url.slice(2, -2);
-    return <a href={`/${linkText}`}>{linkText}</a>;
-  }
-  return <p>{node.content}</p>;
-})}
+<div innerHTML={transformedContent}></div>
