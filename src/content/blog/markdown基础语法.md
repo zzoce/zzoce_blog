@@ -20,9 +20,9 @@ The following HTML `<h1>`—`<h6>` elements represent six levels of section head
 
 测试
 你好
-新增杂谈
+图床
 
-![](../../../public/image/zzoce-1727856224507-8.jpg)
+![](https://zzoce.obs.cn-north-4.myhuaweicloud.com/img/Snipaste_2024-08-27_21-28-56.png)
 
 https://saroprock.oss-cn-hangzhou.aliyuncs.com/
 
