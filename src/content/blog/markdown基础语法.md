@@ -48,6 +48,8 @@ Itatur? Quiatae cullecum rem ent aut odis in re eossequodi nonsequ idebis ne sap
 
 #### Output
 
+![Alt text](./full/or/relative/path/of/image)
+
 ![blog placeholder](/home.webp)
 
 ## Blockquotes
