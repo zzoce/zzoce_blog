@@ -1,9 +1,9 @@
 ---
-// MarkdownLinks.astro
+// LinkParser.astro
 const { content } = Astro.props;
 
 // 使用正则表达式查找[[文件名]]格式的文本
-const transformedContent = content.replace(/\[\[(.*?)\]\]/g, (match, filename) => {
+const transformedContent = content.replace(/\[\[(.*?)\]\]/g, (match: string, filename: string) => {
   return `<a href="/${filename}">${filename}</a>`;
 });
 ---
