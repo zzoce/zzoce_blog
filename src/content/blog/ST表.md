@@ -8,6 +8,7 @@ categories:
 tags:
   - 数据结构
   - ST表
+  - 二进制倍增
 badge: zzcoe
 ---
 
