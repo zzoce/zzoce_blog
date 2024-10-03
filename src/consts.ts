@@ -51,7 +51,7 @@ export const menuItems = [
         id: "日常",
         text: "日常",
         href: "/blog/categories/日常",
-        svg: "heart",
+        svg: "bell",
         target: "_self",
       }, // Life category
       {
