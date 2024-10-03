@@ -41,6 +41,13 @@ export const menuItems = [
         target: "_self",
       }, // Technology category
       {
+        id: "面试",
+        text: "面试",
+        href: "/blog/categories/面试",
+        svg: "heart",
+        target: "_self",
+      }, // Technology category
+      {
         id: "日常",
         text: "日常",
         href: "/blog/categories/日常",
