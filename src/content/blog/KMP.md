@@ -6,8 +6,9 @@ image: /image/index.webp
 categories:
   - 笔记
   - 面试
-tags:
   - 数据结构
+tags:
+  - 动态规划
 badge: zzcoe
 ---
 
