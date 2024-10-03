@@ -1,7 +1,7 @@
 ---
 title: "KMP"
 description: "经典字符串匹配算法"
-pubDate: Oct 02 2024
+pubDate: Oct 03 2024
 image: /image/index.webp
 categories:
   - 笔记
