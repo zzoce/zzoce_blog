@@ -51,14 +51,14 @@ export const menuItems = [
         id: "日常",
         text: "日常",
         href: "/blog/categories/日常",
-        svg: "heart",
+        svg: "cube",
         target: "_self",
       }, // Life category
       {
         id: "杂谈",
         text: "杂谈",
         href: "/blog/categories/杂谈",
-        svg: "cube",
+        svg: "bell",
         target: "_self",
       }, // Technology category
     ],
