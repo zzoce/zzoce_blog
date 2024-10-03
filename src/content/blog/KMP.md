@@ -4,9 +4,8 @@ description: "经典字符串匹配算法"
 pubDate: Oct 03 2024
 image: /image/index.webp
 categories:
-  - 笔记
   - 面试
-  - 数据结构
+  - 算法
 tags:
   - 动态规划
 badge: zzcoe
