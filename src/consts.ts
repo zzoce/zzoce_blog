@@ -34,13 +34,6 @@ export const menuItems = [
         target: "_self",
       }, // All blog
       {
-        id: "笔记",
-        text: "笔记",
-        href: "/blog/categories/笔记",
-        svg: "cube",
-        target: "_self",
-      }, // Technology category
-      {
         id: "日常",
         text: "日常",
         href: "/blog/categories/日常",
