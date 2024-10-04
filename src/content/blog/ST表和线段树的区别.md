@@ -4,7 +4,7 @@ description: "ST适用于静态的只查不改，线段树可以既查又改"
 pubDate: Oct 03 2024
 image: /image/index.webp
 categories:
-  - 算法
+  - 数据结构与算法
 tags:
   - ST表
   - 线段树

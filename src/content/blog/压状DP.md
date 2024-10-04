@@ -4,7 +4,7 @@ description: "将状态转为二进制，压缩为整数"
 pubDate: Oct 03 2024
 image: /image/index.webp
 categories:
-  - 算法
+  - 数据结构与算法
 tags:
   - 动态规划
 badge: zzcoe

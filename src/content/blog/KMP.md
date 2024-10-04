@@ -5,7 +5,7 @@ pubDate: Oct 03 2024
 image: /image/index.webp
 categories:
   - 面试
-  - 算法
+  - 数据结构与算法
 tags:
   - 动态规划
 badge: zzcoe

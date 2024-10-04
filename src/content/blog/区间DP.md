@@ -4,7 +4,7 @@ description: "区间类动态规划"
 pubDate: Oct 03 2024
 image: /image/index.webp
 categories:
-  - 算法
+  - 数据结构与算法
 tags:
   - 动态规划
 badge: zzcoe

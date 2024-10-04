@@ -4,7 +4,7 @@ description: "用来求最短路问题"
 pubDate: Oct 02 2024
 image: /image/index.webp
 categories:
-  - 算法
+  - 数据结构与算法
 tags:
   - 动态规划
 badge: zzcoe

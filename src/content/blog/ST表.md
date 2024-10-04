@@ -4,7 +4,7 @@ description: "通过花费较高的预处理实现后续以O(1)的复杂度完�
 pubDate: Oct 03 2024
 image: /image/index.webp
 categories:
-  - 算法
+  - 数据结构与算法
 tags:
   - 数据结构
   - ST表

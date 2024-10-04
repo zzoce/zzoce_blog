@@ -4,7 +4,7 @@ description: "也就是再树上做DP，有递归实现"
 pubDate: Oct 03 2024
 image: /image/index.webp
 categories:
-  - 算法
+  - 数据结构与算法
 tags:
   - 动态规划
 badge: zzcoe
